@@ -1,0 +1,3 @@
+'''
+Host-based example scripts
+'''
